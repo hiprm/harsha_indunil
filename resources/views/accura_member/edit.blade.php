@@ -119,6 +119,5 @@
     src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.4.0/mdb.min.js"
 ></script>
 
-<script src="index.js"></script>
 </body>
 </html>

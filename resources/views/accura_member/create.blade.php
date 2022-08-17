@@ -60,12 +60,6 @@
             <div class="row mb-4">
                 <div class="col">
                     <div class="form-outline">
-                        {{--                        <select name="ds_division" class="form-control">--}}
-                        {{--                            <option value="volvo">Volvo</option>--}}
-                        {{--                            <option value="saab">Saab</option>--}}
-                        {{--                            <option value="opel">Opel</option>--}}
-                        {{--                            <option value="audi">Audi</option>--}}
-                        {{--                        </select>--}}
                         <select class="form-select" name="ds_division" aria-label="Default select example">
                             <option selected>Open this select menu</option>
                             @isset($ds_divisions)
@@ -116,6 +110,5 @@
     src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.4.0/mdb.min.js"
 ></script>
 
-<script src="index.js"></script>
 </body>
 </html>
